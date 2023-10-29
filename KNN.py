@@ -11,6 +11,10 @@ Iris = pd.read_csv("Iris.csv")
 X = Iris.drop(columns=["Species","Id"])
 y = Iris["Species"]
 
+sns.pairplot(Iris, hue='Species')
+plt.show()
+
+
 SS = StandardScaler()
 X= SS.fit_transform(X)
 
