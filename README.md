@@ -1,10 +1,10 @@
 # Prediction of Iris Species Using K-Nearest Neighbors Algorithm
 
 ## Project Overview
-In this project, we aim to accurately predict the species of iris flowers based on the physical attributes of their flowers. We utilize the K-Nearest Neighbors (KNN) algorithm, a versatile machine learning technique, to predict based on the 'distance' between feature values.
+In this project, aim to accurately predict the species of iris flowers based on the physical attributes of their flowers. I utilize the K-Nearest Neighbors (KNN) algorithm, a versatile machine learning technique, to predict based on the 'distance' between feature values.
 
 ## Dataset
-We are using the renowned "Iris" dataset, frequently cited in pattern recognition literature. The dataset comprises 150 records across five attributes:
+Using the renowned "Iris" dataset, frequently cited in pattern recognition literature. The dataset comprises 150 records across five attributes:
 - Petal length
 - Petal width
 - Sepal length
