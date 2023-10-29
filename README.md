@@ -48,6 +48,8 @@ The dataset includes three species of iris (Iris setosa, Iris virginica, and Iri
 - Propose recommendations and areas for future research, like exploring other algorithms or considering supplementary features.
 
 ## Conclusion
+![![Uploading image.png…]()
+]
 Based on the plot, the optimal values for 'K' in this dataset appear to be around 6, 13, and 18, where the prediction accuracy peaks. Among these, \( K approxmately 6 \) seems to provide the highest accuracy, making it the most optimal value for 'K'. However, it's important to note that selecting the smallest 'K' value with the highest accuracy can be preferable as it often yields a simpler, more interpretable, and faster model. Therefore, for this dataset and based on the provided graph, \( K = 6 \) is recommended as the optimal choice for achieving the best accuracy using the K-Nearest Neighbors algorithm.
 
 This project exemplifies the entirety of the machine learning workflow, from data comprehension to model execution. It is an ideal foundational venture for individuals aiming to explore data science and machine learning. The K-Nearest Neighbors algorithm, with its straightforwardness, serves as an ideal tool for grasping the fundamental concepts of machine learning classification tasks.
